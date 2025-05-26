@@ -41,4 +41,5 @@ while not success:
   <!-- .NET -->
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" title="C#">
 </p>
-![Календарь активности](https://activity-graph.herokuapp.com/graph?username=quincyque0&theme=react-dark)
+
+![Snake Animation](https://github.com/quincyque0/quincyque0/blob/output/github-contribution-grid-snake.svg)
