@@ -41,6 +41,7 @@ while not success:
   <!-- .NET -->
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" title="C#">
 </p>
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+![Snake Animation](https://github.com/quincyque0/quincyque0/blob/output/github-contribution-grid-snake.svg)
 
 
