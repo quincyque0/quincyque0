@@ -42,6 +42,11 @@ while not success:
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" title="C#">
 </p>
 
+## 📊 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/udziron?theme=dark&ext=contest)
+
+
 
 
 
