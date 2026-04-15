@@ -43,6 +43,8 @@ Interests: AI, Linux, frontend, GO, Python
 </p>
 <br>
 <br>
+<br>
+<br>
 <div>
 <h2 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
 
