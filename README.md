@@ -27,6 +27,11 @@ Interests: AI, Linux, Machine Learning, bash scripts
 ╰────────🖥️ hope you find something useful 🖥️───────────╯
 
 -------------------------------------------------------------
+
+
+
+
+```
 ## 📊 My LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/udziron?theme=dark&ext=contest)
