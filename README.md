@@ -3,7 +3,7 @@
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=40&pause=1000&color=27F7EE&center=true&width=1000&lines=(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hi%2C+I'm++Quincyque%2C++welcome+to+my+profile)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=30&pause=1000&color=27F7EE&center=true&width=435&lines=(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hi%2C+I'm++Quincyque)](https://git.io/typing-svg)
-![Itoshi Sae GIF](https://media.tenor.com/9955944141912821621/itoshi-sae-blue-lock.gif)
+![Itoshi Sae GIF]([https://media.tenor.com/9955944141912821621/itoshi-sae-blue-lock.gif](https://tenor.com/ru/view/itoshi-sae-blue-lock-flow-football-soccer-gif-9955944141912821621))
 
 ### 🛠️ Инструменты
 <p align="left">
