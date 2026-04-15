@@ -5,10 +5,11 @@
 
 
 <img src="https://media1.tenor.com/m/iiqecr5YT3UAAAAC/itoshi-sae-blue-lock.gif" width="1000">
+
 ---
 
 
-<img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="250">
+<img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="500">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
