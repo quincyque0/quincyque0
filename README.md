@@ -27,12 +27,6 @@ Interests: AI, Linux, Machine Learning, bash scripts
 ╰────────🖥️ hope you find something useful 🖥️───────────╯
         
 -------------------------------------------------------------
-
-
-
-
-
-
 ```
 ## 📊 My LeetCode Stats
 
