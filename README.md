@@ -8,7 +8,7 @@
 ---
 
 
-<img src="[gifs/1.gif](https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif)" alt="<3" align="left" width="30%" height="500%">
+<img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="250">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
