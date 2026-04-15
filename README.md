@@ -12,21 +12,21 @@
 <img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="370">
 
 ```csharp
-----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
-
-Username: Quincyque 👩🏻‍💻
-WhoamI: 2rd semester Computer science student @Facultad de
-Ciencias, UNAM ˚ʚ♡ɞ˚ (taking one class from 5th xd)
-I'm also a freelance artist
-OS: pop!OS, EndeavourOS(i3WM-QEMU) and Arch btw(xmonad)
-Hobbies: drawing, gaming, anime/manga, I have an anime/manga/figure
-collection, I enjoy upgrading my setup and ricing my laptop.      
-Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
-Interests: AI, Linux, Machine Learning, bash scripts
-
-╰────────🖥️ hope you find something useful 🖥️───────────╯
-
--------------------------------------------------------------
+        ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
+        
+        Username: Quincyque 👩🏻‍💻
+        WhoamI: 2rd semester Computer science student @Facultad de
+        Ciencias, UNAM ˚ʚ♡ɞ˚ (taking one class from 5th xd)
+        I'm also a freelance artist
+        OS: pop!OS, EndeavourOS(i3WM-QEMU) and Arch btw(xmonad)
+        Hobbies: drawing, gaming, anime/manga, I have an anime/manga/figure
+        collection, I enjoy upgrading my setup and ricing my laptop.      
+        Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
+        Interests: AI, Linux, Machine Learning, bash scripts
+        
+        ╰────────🖥️ hope you find something useful 🖥️───────────╯
+        
+        -------------------------------------------------------------
 
 
 
