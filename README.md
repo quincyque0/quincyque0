@@ -9,7 +9,7 @@
 ---
 
 
-<img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="500">
+<img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="400">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
