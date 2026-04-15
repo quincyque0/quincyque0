@@ -1,5 +1,7 @@
-`💻 Разработчик | 🚀 Технологический энтузиаст | 🌍 Новосибирск`
-
+<!--
+  <h1 align="center">Hi, I'm Quincyque </h1>
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=30&pause=1000&color=27F7EE&center=true&width=435&lines=(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hi%2C+I'm++Quincyque)](https://git.io/typing-svg)
 ```python
 # Мое жизненное кредо
 while not success:
