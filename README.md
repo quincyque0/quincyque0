@@ -25,7 +25,10 @@ Interests: AI, Linux, frontend, GO, Python
         
 -------------------------------------------------------------
 ```
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+
+
+
+<h2 align="center">            ~ 📇 Knowladge 📇 ~</h2>
  <br>
 <p>
   <div align="center">
@@ -42,7 +45,7 @@ There are many more things, but this site doesn't have a Linux badge,
 <br>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
 
 
 
