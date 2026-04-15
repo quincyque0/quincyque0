@@ -4,12 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=40&pause=1000&color=27F7EE&center=true&width=1000&lines=(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hi%2C+I'm++Quincyque%2C++welcome+to+my+profile)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=30&pause=1000&color=27F7EE&center=true&width=435&lines=(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hi%2C+I'm++Quincyque)](https://git.io/typing-svg)
 ```python
-# Мое жизненное кредо
-while not success:
-    code()
-    debug()
-    deploy()
-```
+<div class="tenor-gif-embed" data-postid="2330494243108938159" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/kaiser-blue-lock-gif-2330494243108938159">Kaiser Blue Lock GIF</a>from <a href="https://tenor.com/search/kaiser-gifs">Kaiser GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## 🔧 Мой стек технологий
 
 ### 🛠️ Инструменты
