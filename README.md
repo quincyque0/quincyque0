@@ -15,14 +15,11 @@
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
         
 Username: Quincyque 👩🏻‍💻
-WhoamI: 2rd semester Computer science student @Facultad de
-Ciencias, UNAM ˚ʚ♡ɞ˚ (taking one class from 5th xd)
-I'm also a freelance artist
-OS: pop!OS, EndeavourOS(i3WM-QEMU) and Arch btw(xmonad)
-Hobbies: drawing, gaming, anime/manga, I have an anime/manga/figure
+WhoamI: 2nd semester student @ Information and Computer Technologies, 
+Mobile Systems and Communications ˚ʚ♡ɞ˚ 
+Hobbies: drawing, gaming, anime/manga, sportgames, I have an anime/manga/figure
 collection, I enjoy upgrading my setup and ricing my laptop.      
-Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
-Interests: AI, Linux, Machine Learning, bash scripts
+Interests: AI, Linux, frontend, GO, Python
         
 ╰────────🖥️ hope you find something useful 🖥️───────────╯
         
