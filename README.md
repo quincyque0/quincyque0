@@ -6,7 +6,6 @@
 
 <img src="https://media1.tenor.com/m/iiqecr5YT3UAAAAC/itoshi-sae-blue-lock.gif" width="1000">
 
----
 
 
 <img src="https://media1.tenor.com/m/vpZe-cpA3oIAAAAC/sae-itoshi.gif" alt="<3" align="left" width="370">
@@ -27,7 +26,6 @@ Interests: AI, Linux, frontend, GO, Python
 ```
  <br> <br> 
  
- ---
 
   
 <h2 align="center">  ~ 📇 Knowladge 📇 ~</h2>
