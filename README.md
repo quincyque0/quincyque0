@@ -25,12 +25,11 @@ Interests: AI, Linux, frontend, GO, Python
 <br> <br> 
 <br> 
 <h2 align="center">~ 📇 Knowledge 📇 ~</h2>
-
 <br><br>
 
 <table align="center">
   <tr>
-    <td valign="top" align="left">
+    <td valign="middle" align="left" nowrap>
       <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a><br>
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a><br>
       <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a><br>
@@ -41,11 +40,11 @@ Interests: AI, Linux, frontend, GO, Python
       <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a><br>
       <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a><br>
       <a href="https://nginx.org/"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></a>
-    </tr>
-     <td valign="top" align="right">
-      <img src="gifs/lelouch-code-geass-ezgif.com-optimize.gif" width="550" alt="Lelouch Code Geass GIF", allign=right>
     </td>
-  </table>
+     <td valign="middle" align="right" nowrap>
+      <img src="gifs/lelouch-code-geass-ezgif.com-optimize.gif" width="280" alt="Lelouch Code Geass GIF">
+     </td>
+   </tr>
 </table>
 
 <br><br>
