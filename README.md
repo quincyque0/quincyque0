@@ -45,7 +45,7 @@ Interests: AI, Linux, frontend, GO, Python
         <a href="https://angular.io/"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
       </td>
       <td align="right">
-        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="250">
+        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="500">
       </td>
     </tr>
   </table>
