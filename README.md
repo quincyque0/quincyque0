@@ -53,3 +53,4 @@ Interests: AI, Linux, frontend, GO, Python
 </table>
 
 <br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quincyque0)](https://github.com/ashutosh00710/github-readme-activity-graph)
