@@ -3,9 +3,9 @@
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=40&pause=1000&color=F70055&center=true&width=1000&lines=(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hi%2C+I'm++Quincyque%2C++welcome+to+my+profile)](https://git.io/typing-svg)
 
-<img src="itoshi-sae-blue-lock-ezgif.com-optimize.gif" width="800" alt="Itoshi Sae">
+<img src="gifs/itoshi-sae-blue-lock-ezgif.com-optimize.gif" width="800" alt="Itoshi Sae">
 
-<img src="sae-itoshi-ezgif.com-optimize.gif" alt="<3" align="left" width="250">
+<img src="gifs/sae-itoshi-ezgif.com-optimize.gif" alt="<3" align="left" width="250">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
@@ -43,7 +43,7 @@ Interests: AI, Linux, frontend, GO, Python
       <a href="https://nginx.org/"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></a>
     </tr>
     <td valign="top" align="right">
-      <img src="lelouch-code-geass-ezgif.com-optimize.gif" width="280" alt="Lelouch Code Geass GIF">
+      <img src="gifs/lelouch-code-geass-ezgif.com-optimize.gif" width="280" alt="Lelouch Code Geass GIF">
     </td>
   </table>
 </table>
