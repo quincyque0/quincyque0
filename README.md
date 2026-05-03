@@ -47,7 +47,7 @@ Interests: AI, Linux, frontend, GO, Python
       <a href="https://nginx.org/"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></a>
     </td>
     <td valign="top" align="right">
-      <img src="https://media1.tenor.com/m/Rqgy4h1yLs0AAAAC/lelouch-code-geass.gif" width="500" alt="Lelouch Code Geass GIF">
+      <img src="https://media1.tenor.com/m/Rqgy4h1yLs0AAAAC/lelouch-code-geass.gif" width="550" alt="Lelouch Code Geass GIF">
     </td>
   </tr>
 </table>
